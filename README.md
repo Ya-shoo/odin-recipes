@@ -4,3 +4,5 @@ Goal: develop skills in basic hmtl website setup!
 - images and links
 - multiple pages connecting to each other
 - basic html formatting
+
+[Live preview](https://ya-shoo.github.io/odin-recipes/)
