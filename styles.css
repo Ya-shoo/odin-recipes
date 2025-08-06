@@ -1,0 +1,25 @@
+* {
+    font-family: 'Courier New', Courier, monospace, sans-serif;
+    background-color: #202230;
+    color: white;
+}
+
+h1 {
+    color: #aa90ff;
+}
+
+h2{
+    color: #ffe590;
+}
+
+h4{
+    color: #f397ff;
+}
+
+li a {
+    color: rgb(119, 255, 255);
+}
+
+p {
+    color: rgb(193, 204, 211);
+}
